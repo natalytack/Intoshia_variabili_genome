@@ -1,1 +1,1 @@
-# Intoshia_variabili_genome
+# Scripts for genome of Intoshia variabili (Orthonectida)
